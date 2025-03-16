@@ -29,7 +29,16 @@
   
 ## Project Metrix:
 
-    **1.** Create a _[Project Priority Metrix](
+    **1.** Create a _[Project Priority Metrix](https://github.com/sujji3677/Excel-Sales-Analytics/blob/main/Project%20Priority%20Matrix.pdf)_ 
+
+   **2.** Create a _[Scenario Planning](https://github.com/sujji3677/Excel-Sales-Analytics/blob/main/Scenario%20Planning.pdf)_ 
+
+- **Purpose of sales analytics:** Evaluation of  Understanding sales performance, Identifying trends and patterns, Improving sales forecasting, Optimizing sales processes, Making Data-Driven decisions.
+  
+- **Importance of analyzing Project Data :** Analyzing project data is crucial for ensuring projects stay on track, within budget, and meet quality standards by providing insights into performance, risks, and areas for improvement.
+  
+- **Role of reports:** Reports provide data-driven insights that facilitate informed decision-making and track progress across projects and strategic planning.
+  
 ## Technical & Soft Skills:
 - [x]	Proficiency in ETL methodology (Extract, Transform, Load).
 - [x]	Skills to generate a date table using Power Query.
