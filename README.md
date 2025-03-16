@@ -29,7 +29,8 @@
   
 ## Project Metrix:
 
-    **1.** Create a _[Project Priority Metrix](https://github.com/sujji3677/Excel-Sales-Analytics/blob/main/Project%20Priority%20Matrix.pdf)_ 
+   **1.** Create a _[Project Priority Metrix](https://github.com/sujji3677/Excel-Sales-Analytics/blob/main/Project%20Priority%20Matrix.pdf)_
+
 
    **2.** Create a _[Scenario Planning](https://github.com/sujji3677/Excel-Sales-Analytics/blob/main/Scenario%20Planning.pdf)_ 
 
